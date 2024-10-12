@@ -1,0 +1,17 @@
+# Archivos de entorno
+  .env
+
+  # Archivo de autenticación de YouTube Music
+  headers_auth.json
+
+  # Archivos de caché de Python
+  __pycache__/
+  *.pyc
+
+  # Entornos virtuales
+  venv/
+  env/
+
+  # Otros archivos y directorios que podrías querer ignorar
+  .DS_Store
+  *.log

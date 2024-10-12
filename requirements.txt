@@ -1,2 +1,4 @@
 spotipy~=2.24.0
 ytmusicapi~=1.8.2
+tqdm~=4.66.5
+python-dotenv
